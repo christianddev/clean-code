@@ -30,7 +30,7 @@
 
   type FruitColor = "red" | "yellow" | "purple";
 
-  function getFruitsByColorV2(color: FruitColor): string[] | Error {
+  function getFruitsByColorV2(color: FruitColor): string[] {
     type FruitsByColor = {
       [key in FruitColor]: string[];
     };
@@ -106,7 +106,7 @@
   console.log({ yellowFruits: getFruitsByColorV2("yellow") }); // ['piña', 'banana']
   console.log({ purpleFruits: getFruitsByColor("purple") }); // ['moras', 'uvas']
   console.log({ purpleFruits: getFruitsByColorV2("purple") }); // ['moras', 'uvas']
-  // console.log({ pinkFruits: getFruitsByColor("pink") }); // Error: the color must be: red, yellow, purple
+  console.log({ pinkFruits: getFruitsByColor("pink") }); // Error: the color must be: red, yellow, purple
   console.log({ pinkFruits: getFruitsByColorV2("pink") }); // Error: the color must be: red, yellow, purple
 
   // workingSteps
