@@ -1,4 +1,5 @@
 (() => {
+  // the principle of single liability does NOT apply
   type Gender = "M" | "F";
   class Person {
     constructor(
@@ -7,8 +8,6 @@
       public birthdate: Date
     ) {}
   }
-  // const peron = new Person("Lola", "M", new Date("01/01/1990"));
-  // console.log("peron", peron);
 
   class User extends Person {
     private lastAccess: Date;
@@ -28,9 +27,6 @@
     }
   }
 
-  // const user = new User("email", "ABC", "Lola", "M", new Date("01/01/1990"));
-  // console.log("peron", peron);
-
   class UserSettings extends User {
     constructor(
       public workingDirectory: string,
@@ -44,6 +40,7 @@
       super(emaiL, role, name, gender, birthdate);
     }
   }
+
   const userSettings = new UserSettings(
     "/A",
     "/B",
