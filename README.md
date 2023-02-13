@@ -164,8 +164,6 @@
 
   ![](./assets/type%20validation.png)
 
-
-
   ```TS
     function workingSteps() {
       if (isFirstStepWorking === true) {
@@ -209,6 +207,16 @@
       return "Working properly!";
     }
   ```
+
+<hr>
+
+## STUPID
+
+![](./assets/STUPID.png)
+
+### low coupling, high cohesion
+
+![](./assets/acplamiento.png)
 
 <hr>
 
