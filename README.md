@@ -220,6 +220,17 @@
 
 <hr>
 
+## SOLID Principles
+![image](https://user-images.githubusercontent.com/44360421/218646080-8b92f8a3-fc30-4e53-86f6-149daa615013.png)
+![image](https://user-images.githubusercontent.com/44360421/218646203-f18df55b-80ff-419c-91ed-296118151fe0.png)
+
+### Single Responsibility Principle
+![image](https://user-images.githubusercontent.com/44360421/218646514-c5431c89-38e9-4500-83f0-baa655a02fab.png)
+
+
+
+<hr>
+
 ### Installation
 
 - check [this](./docs/README.md) document
