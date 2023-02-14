@@ -226,6 +226,7 @@
 
 ### Single Responsibility Principle
 ![image](https://user-images.githubusercontent.com/44360421/218646514-c5431c89-38e9-4500-83f0-baa655a02fab.png)
+![image](https://user-images.githubusercontent.com/44360421/218656819-c8945cc1-d911-42df-a1e6-95cf99319f27.png)
 
 
 
