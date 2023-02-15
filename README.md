@@ -228,6 +228,13 @@
 ![image](https://user-images.githubusercontent.com/44360421/218646514-c5431c89-38e9-4500-83f0-baa655a02fab.png)
 ![image](https://user-images.githubusercontent.com/44360421/218656819-c8945cc1-d911-42df-a1e6-95cf99319f27.png)
 
+### Open & Close Principle
+![image](https://user-images.githubusercontent.com/44360421/218939805-764fdb22-6428-4771-a5ae-ad19e4518ad4.png)
+![image](https://user-images.githubusercontent.com/44360421/218940190-4e982b0d-ce22-40f0-bd83-51eb7385484e.png)
+![image](https://user-images.githubusercontent.com/44360421/218943158-faf06102-0ae7-4168-a863-573769be2ec0.png)
+
+### Liskov
+![image](https://user-images.githubusercontent.com/44360421/218943380-cca5fc0c-9eec-4c2a-85af-ee94a92f1b28.png)
 
 
 <hr>
