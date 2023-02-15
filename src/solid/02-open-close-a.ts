@@ -1,5 +1,5 @@
 import { PhotosService, PostService, TodoService } from "./02-open-close-b";
-import { HttpCLient } from "./03-open-close";
+import { HttpCLient } from "./02-open-close-c";
 
 (async () => {
   const httpCLient = new HttpCLient();
