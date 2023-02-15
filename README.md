@@ -236,6 +236,11 @@
 ### Liskov Substitution Principle
 ![image](https://user-images.githubusercontent.com/44360421/218943380-cca5fc0c-9eec-4c2a-85af-ee94a92f1b28.png)
 
+### Interface Segregation Principle
+![image](https://user-images.githubusercontent.com/44360421/218947735-5055a7b3-10f5-4337-9b03-3e1f8cee389b.png)
+![image](https://user-images.githubusercontent.com/44360421/218947834-04e4c702-c1f2-4c0e-9860-d6996faba46d.png)
+![image](https://user-images.githubusercontent.com/44360421/218950342-fe025c38-b947-4711-ab0a-e6d1fc1bf078.png)
+
 
 <hr>
 
