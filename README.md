@@ -241,6 +241,15 @@
 ![image](https://user-images.githubusercontent.com/44360421/218947834-04e4c702-c1f2-4c0e-9860-d6996faba46d.png)
 ![image](https://user-images.githubusercontent.com/44360421/218950342-fe025c38-b947-4711-ab0a-e6d1fc1bf078.png)
 
+### Dependency Inversion Principle
+![image](https://user-images.githubusercontent.com/44360421/219276194-7ae018bb-dcf9-437b-ba0d-7ae1e6c2d39e.png)
+![image](https://user-images.githubusercontent.com/44360421/219276475-c94fe10d-0e25-40a6-9d34-e49f9547f2c9.png)
+![image](https://user-images.githubusercontent.com/44360421/219276495-5871ab7c-6b6c-433a-bb27-15bc4a53b80f.png)
+![image](https://user-images.githubusercontent.com/44360421/219276815-a386e2b9-5832-45a1-a4d3-de26c760c3fd.png)
+![image](https://user-images.githubusercontent.com/44360421/219276957-c070fab8-4b60-4431-9c23-8d9d599fd562.png)
+![image](https://user-images.githubusercontent.com/44360421/219276976-e2f162b7-6a5d-42ec-8601-8e4b253113d9.png)
+![image](https://user-images.githubusercontent.com/44360421/219277368-a68f8d96-0075-47c5-b099-1272ede75715.png)
+
 
 <hr>
 
