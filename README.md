@@ -1,3 +1,9 @@
+# Principles SOLID & Clean Code
+this repository is based on [Fernando Herrera's](https://github.com/Klerith) course [Pricipios SOLID & Clean Code](https://cursos.devtalles.com/courses/solid-clean-code).
+
+[ Full Presentation of this  course](./assets/Presentaciones.pdf)
+
+
 ## 01 - Names
 
 ### Names
